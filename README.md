@@ -1,5 +1,7 @@
 # 📊 Power BI Portfolio Dashboards
 
-This repository features a curated collection of Power BI dashboards developed to demonstrate practical business intelligence solutions across various domains including HR, Marketing, Sales, and Operations. Each dashboard highlights data modeling, DAX calculations, and visualization best practices aimed at delivering clear, actionable insights.
+This repository includes a collection of Power BI dashboards built to solve real business problems across different domains like HR, Marketing, Sales, and Operations.  
 
----
+Each dashboard represents a complete data story — from data modeling and transformation to clean visual design and insight delivery.  
+
+The goal is to showcase how data can be turned into clear, actionable information through effective use of Power BI and DAX.
